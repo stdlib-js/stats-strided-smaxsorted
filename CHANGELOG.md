@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1e9e65d`](https://github.com/stdlib-js/stdlib/commit/1e9e65dbba33062853608b997a3076f00fa37234) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`784f645`](https://github.com/stdlib-js/stdlib/commit/784f6450dd6523ed114f77c5fc1f293cd0479850) - **feat:** add `stats/strided/smaxsorted` _(by Aayush Khanna)_
 
 </details>
